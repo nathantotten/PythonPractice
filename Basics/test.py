@@ -20,7 +20,7 @@ def randomNumberPrinter(length):
 
 # randomNumberPrinter(100)
 
-""" x = 5
+""" x = 2
 
 y = 5
 
